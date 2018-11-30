@@ -13,5 +13,5 @@ this create static files in ./dist
 and u can use app in build mode on http server localhost:8001
 ```
 
-![alt text](./screen4git/main.PNG)
-![alt text](./screen4git/editor.PNG)
+![alt text](./screen4git/main.png)
+![alt text](./screen4git/editor.png)
