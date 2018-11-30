@@ -1,0 +1,26 @@
+{
+  "name": "stub_server",
+  "version": "1.0.0",
+  "description": "Server for stub_client",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "lokijs": "^1.5.5",
+    "nodemon": "^1.18.4",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes",
+    "webapp",
+    "vue"
+  ],
+  "author": "EvgenJin",
+  "license": "ISC"
+}
