@@ -1,6 +1,6 @@
 # StubNotes
-## This is a project whith made by Nodejs, Vue, lokijs, socket. io
-### This application can store and edit your notes in markdown, has a quick search and tags
+## This is a project with made by Nodejs, Vue, lokijs, socket.io
+### This application can store and edit your notes in markdown, has a quick search and tags.
 ```
 run server in root directory
 npm start
